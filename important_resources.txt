@@ -4,6 +4,7 @@ oreilly        Nivmeirson    1Q2W3E4R
 
 clean-architecture:
 https://github.com/matthewrenze/clean-architecture-demo
+https://github.com/JasonGT/NorthwindTraders
 
 
 clean-architecture with repository:
