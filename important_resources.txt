@@ -1,0 +1,10 @@
+Pluralsight    NivMeirson    1Q2W3E4R
+oreilly        Nivmeirson    1Q2W3E4R
+
+
+clean-architecture:
+https://github.com/matthewrenze/clean-architecture-demo
+
+
+clean-architecture with repository:
+https://github.com/matthewrenze/clean-architecture-demo/tree/repo-and-uow
