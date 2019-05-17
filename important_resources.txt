@@ -9,3 +9,6 @@ https://github.com/JasonGT/NorthwindTraders
 
 clean-architecture with repository:
 https://github.com/matthewrenze/clean-architecture-demo/tree/repo-and-uow
+
+ninject
+https://nodogmablog.bryanhogan.net/2016/04/web-api-2-and-ninject-how-to-make-them-work-together/
